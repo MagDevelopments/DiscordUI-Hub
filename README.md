@@ -1,1 +1,1 @@
-Don't Copy and Paste the [obfuscated](MagDevelopments) verison copy from this one [HERE](Loadstring)
+Don't Copy and Paste the [obfuscated](MagDevelopments) verison copy from Loadsting File [HERE](Loadstring)
